@@ -31,6 +31,8 @@ This script builds an intelligent agent that allows you to chat with a Tesla veh
    - *"Which model has the highest sales in 2022?"*
 
 > ⚡ Tip: The agent will gracefully guide you if your query is unclear or the data is incomplete.
+>
+Below is the screenshot of sample question and Agent invoke by Script.
 
 
 ![image](https://github.com/user-attachments/assets/7dc18a4f-442f-459b-9971-08d33ce123c1)
