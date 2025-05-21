@@ -1,7 +1,7 @@
 # RagAgent-ChatwithDB
 RagAgent-ChatwithDB
 
-# 🤖 Tesla SQL Agent — GPT-Powered RAG for Vehicle Data
+# 🤖 SQL Agent — AI-Powered RAG for Vehicle Data
 
 This script builds an intelligent agent that allows you to chat with a Tesla vehicle database using natural language. Powered by OpenAI's `gpt-4o-mini` and LangChain's SQL agent toolkit, it converts your questions into accurate SQL queries with domain-specific reasoning.
 
